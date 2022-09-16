@@ -11,7 +11,7 @@ import SwiftUI
 struct ImagesProjectApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ImagesListView()
         }
     }
 }
